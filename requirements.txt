@@ -1,0 +1,2 @@
+pygame~=2.5.2
+pygame-gesture-kit @ git+https://github.com/FreeBugs/pygame_gesture_kit.git@ec990d9eecdd3709e48abe51cb694c7180d26eac
